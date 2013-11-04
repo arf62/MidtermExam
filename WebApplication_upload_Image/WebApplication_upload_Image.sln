@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_upload_Image", "WebApplication_upload_Image\WebApplication_upload_Image.csproj", "{921E9483-05FB-4BDF-937E-1D59C17133CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921E9483-05FB-4BDF-937E-1D59C17133CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921E9483-05FB-4BDF-937E-1D59C17133CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921E9483-05FB-4BDF-937E-1D59C17133CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921E9483-05FB-4BDF-937E-1D59C17133CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
